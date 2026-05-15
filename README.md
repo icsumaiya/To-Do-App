@@ -31,7 +31,7 @@ This app helps users manage daily tasks with a simple and professional user inte
 ## Default Interface
 
 <p align="center">
-  <img src="screenshot-1.png" width="700">
+  <img src="assets/screenshot-1.png" width="700">
 </p>
 
 ---
@@ -39,7 +39,7 @@ This app helps users manage daily tasks with a simple and professional user inte
 ## Task Management Interface
 
 <p align="center">
-  <img src="screenshot-2.png" width="700">
+  <img src="assets/screenshot-2.png" width="700">
 </p>
 ---
 
@@ -48,13 +48,16 @@ This app helps users manage daily tasks with a simple and professional user inte
 ```plaintext
 To-Do-App/
 │
+├── assets/
+│   ├── screenshot-1.png
+│   ├── screenshot-2.png
+│   ├── checked.png
+│   ├── unchecked.png
+│   └── icon.png
+│
 ├── index.html
 ├── style.css
 ├── script.js
-├── icon.png
-├── checked.png
-├── unchecked.png
-├── screenshot.png
 └── README.md
 ```
 
